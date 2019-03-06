@@ -7,7 +7,7 @@ Git
 **SetUp/ Installation**
 Clone the reposistory and install dependecies as follows.
 
-git clone https://github.com/Ridwyn/boilernodereact.git
+git clone https://github.com/Ridwyn/node-react.git
 cd boilerroomapi
 npm install
 

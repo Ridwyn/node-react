@@ -18,6 +18,7 @@ npm install
 cd boilerroomapi
 npm run dev
 
+**Alternatively**
 **To run on separate port**
 cd boilerroomapi
 npm run start
